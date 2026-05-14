@@ -6,9 +6,7 @@
 </p>
 
 <h3 align="center">
-Frontend Developer with a strong UX/UI mindset.<br/>
-I enjoy transforming designs into functional, intuitive, and visually pleasing web interfaces.<br/>
-Currently working with React and TypeScript while continuously improving my design and coding skills.
+---
 </h3>
 
 <br/>
