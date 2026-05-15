@@ -1,82 +1,107 @@
+```md
 <!-- ===== HEADER ===== -->
 <h1 align="center">Hi 👋, I'm Suttirak Pimsuk</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=700&lines=Frontend+Developer;Backend+Developer;AI+Engineer;Prompt+Engineer;React+%2B+TypeScript+%2B+Python;Building+Real-World+AI+Applications" />
-</p>
-
 <h3 align="center">
-Passionate about building modern web applications and AI-powered systems
+Frontend Developer • Backend Developer • AI Engineer • Prompt Engineer
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Backend+Developer;AI+Engineer;Prompt+Engineer;React+%2B+TypeScript+%2B+Python;Building+Real-World+AI+Applications" />
+</p>
 
 <br/>
 
 <!-- ===== HERO GIF ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🔭 Currently building **Frontend, Backend, and AI-powered applications**
+- 🌱 Learning more about **AI Engineering, LLMs, Automation, and Scalable Systems**
+- 🤖 Interested in **OCR Systems, AI Tools, APIs, and Real-world Applications**
+- ⚡ Love turning ideas into real interactive products
+- 💬 Ask me about **React, TypeScript, Node.js, Python, AI, Prompt Engineering**
+
+<br/>
+
+# 🚀 Featured Projects
+
+### 🤖 AI & Automation
+- AI OCR Web Application
+- Prompt Engineering Playground
+- Microsoft Graph Automation System
+
+### 🌐 Web Development
+- React + TypeScript Dashboard
+- Full-stack Web Applications
+- Responsive Frontend UI Systems
+
+<br/>
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,mongodb,docker,git,github,figma,postman,vscode" />
+
 </p>
 
 <br/>
 
-<!-- ===== ABOUT ME ===== -->
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Frontend, Backend, and AI projects**
-- 🌱 I’m currently learning **React, TypeScript, Node.js, Python, AI Engineering, and Prompt Engineering**
-- 🤖 Interested in building **AI-powered applications, automation systems, OCR systems, and real-world tools**
-- 👯 I’m looking to collaborate on **Web Development and AI projects**
-- 💬 Ask me about **React, Frontend, Backend, APIs, AI tools, Prompt Engineering**
-- ⚡ Fun fact: **I enjoy turning ideas into real interactive applications**
-
-<br/>
-
-<!-- ===== CONTACT ===== -->
-## 📫 How to reach me
-
-- 📧 Email: **suttirak.pi@ku.th**
-- 🌐 GitHub: [https://github.com/Suttirak6630202783](https://github.com/Suttirak6630202783)
-
-<br/>
-
-<!-- ===== SKILLS ===== -->
-## 🛠 Languages & Tools
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=suttirakpi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=suttirakpi&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
 </p>
 
 <br/>
 
-## 📊 GitHub Stats
+# 🧠 Currently Learning
+
+- AI Engineering
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Backend Architecture
+- System Design
+- Cloud & Automation
+
+<br/>
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suttirak6630202783&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Suttirak6630202783&theme=tokyonight" height="165"/>
+
+<a href="mailto:suttirak.pi@ku.th">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/suttirakpi">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <br/>
 
-<!-- ===== SNAKE ===== -->
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
 </p>
+```
