@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Suttirak Pimsuk</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=Frontend+Developer;React+%2B+TypeScript;UX%2FUI+Focused;Turning+Designs+into+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=700&lines=Frontend+Developer;Backend+Developer;AI+Engineer;Prompt+Engineer;React+%2B+TypeScript+%2B+Python;Building+Real-World+AI+Applications" />
 </p>
 
 <h3 align="center">
----
+Passionate about building modern web applications and AI-powered systems
 </h3>
 
 <br/>
@@ -21,12 +21,12 @@
 <!-- ===== ABOUT ME ===== -->
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Frontend web projects using React & TypeScript**, focusing on **UI/UX and real-world use cases**
-- 🌱 I’m currently learning **React, TypeScript, Next.js, CSS, UX/UI Design principles**
-- 👯 I’m looking to collaborate on **Frontend or UX/UI projects (Web apps, student projects)**
-- 🤝 I’m looking for help with **Frontend architecture, performance optimization, and UI/UX best practices**
-- 💬 Ask me about **Frontend development, React, UI/UX, responsive design**
-- ⚡ Fun fact: **I enjoy turning designs into real, interactive web experiences**
+- 🔭 I’m currently working on **Frontend, Backend, and AI projects**
+- 🌱 I’m currently learning **React, TypeScript, Node.js, Python, AI Engineering, and Prompt Engineering**
+- 🤖 Interested in building **AI-powered applications, automation systems, OCR systems, and real-world tools**
+- 👯 I’m looking to collaborate on **Web Development and AI projects**
+- 💬 Ask me about **React, Frontend, Backend, APIs, AI tools, Prompt Engineering**
+- ⚡ Fun fact: **I enjoy turning ideas into real interactive applications**
 
 <br/>
 
@@ -47,10 +47,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
 <br/>
@@ -61,8 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suttirakpi&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suttirakpi&theme=tokyonight" height="165"/>
 </p>
-
-
 
 <br/>
 
