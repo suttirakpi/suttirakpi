@@ -60,8 +60,9 @@ Passionate about building modern web applications and AI-powered systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suttirakpi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suttirakpi&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suttirak6630202783&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  
+  <img src="https://streak-stats.demolab.com?user=Suttirak6630202783&theme=tokyonight" height="165"/>
 </p>
 
 <br/>
