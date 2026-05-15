@@ -30,13 +30,8 @@ Frontend Developer • Backend Developer • AI Engineer • Prompt Engineer
 
 # 🚀 Featured Projects
 
-### 🤖 AI & Automation
-- AI OCR Web Application
-- Prompt Engineering Playground
-- Microsoft Graph Automation System
-
 ### 🌐 Web Development
-- React + TypeScript Dashboard
+- React + TypeScript 
 - Full-stack Web Applications
 - Responsive Frontend UI Systems
 
@@ -56,9 +51,15 @@ Frontend Developer • Backend Developer • AI Engineer • Prompt Engineer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suttirakpi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suttirakpi&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=suttirakpi&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suttirakpi&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suttirakpi&theme=tokyonight"/>
 
 </p>
 
@@ -66,12 +67,11 @@ Frontend Developer • Backend Developer • AI Engineer • Prompt Engineer
 
 # 🧠 Currently Learning
 
+- Frontend Architecture
 - AI Engineering
-- Large Language Models (LLMs)
 - Prompt Engineering
 - Backend Architecture
 - System Design
-- Cloud & Automation
 
 <br/>
 
