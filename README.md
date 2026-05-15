@@ -1,4 +1,3 @@
-```md
 <!-- ===== HEADER ===== -->
 <h1 align="center">Hi 👋, I'm Suttirak Pimsuk</h1>
 
@@ -104,4 +103,3 @@ Frontend Developer • Backend Developer • AI Engineer • Prompt Engineer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
 </p>
-```
